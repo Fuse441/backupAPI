@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\colab-api\\colab-api\\colab-api.csproj": {}
+    "D:\\colab-api\\backupAPI\\colab-api.csproj": {}
   },
   "projects": {
-    "D:\\colab-api\\colab-api\\colab-api.csproj": {
+    "D:\\colab-api\\backupAPI\\colab-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\colab-api\\colab-api\\colab-api.csproj",
+        "projectUniqueName": "D:\\colab-api\\backupAPI\\colab-api.csproj",
         "projectName": "colab-api",
-        "projectPath": "D:\\colab-api\\colab-api\\colab-api.csproj",
+        "projectPath": "D:\\colab-api\\backupAPI\\colab-api.csproj",
         "packagesPath": "C:\\Users\\jiran\\.nuget\\packages\\",
-        "outputPath": "D:\\colab-api\\colab-api\\obj\\",
+        "outputPath": "D:\\colab-api\\backupAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jiran\\AppData\\Roaming\\NuGet\\NuGet.Config",
